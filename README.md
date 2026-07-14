@@ -77,10 +77,3 @@ bank-customer-segmentation/
 ├── README.md
 └── requirements.txt
 ```
-
-## Próximos pasos
-
-Segundo ejercicio de segmentación (proyecto separado), usando un
-dataset distinto centrado en vinculación real del cliente (nº de
-productos, antigüedad, actividad), para complementar esta visión
-puramente socioeconómica.
